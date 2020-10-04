@@ -16,7 +16,7 @@ It's possible to interact with the ESP8266 in two ways:
 The IP-address is printed on the serial monitor in the setup. To interact with the ESP __surf to the given IP address__ with a device connected to the same network and as path the command you want to execute. 
 For example: 
   - _192.168.0.0/play_ starts the play command
-  - _192.168.0.0/next_ plays the next song
+  - _192.168.0.0/next_ skips a song
   - _192.168.0.0/prev_ plays the previous song
   
 ## IR-sensor
